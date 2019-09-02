@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cssivision/react-native-qrcode.git"
+    "url": "https://github.com/elanpang/react-native-qrcode.git"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/cssivision/react-native-qrcode#readme",
   "dependencies": {
-    "create-react-class": "^15.6.0",
+    "create-react-class": "^15.6.3",
     "react-native-webview": "^6.11.1",
     "prop-types": "^15.7.2",
     "qr.js": "0.0.0"
